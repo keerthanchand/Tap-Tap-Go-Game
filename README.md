@@ -1,4 +1,4 @@
-# fluttertest
+# Tap Tap Go
 
 A new Flutter project.
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/keerthanchand/Tap-Tap-Go-Game/main/images/Screenshot_1634025422.png" align="left" height="370" width="180" >
+<img src="https://raw.githubusercontent.com/keerthanchand/Tap-Tap-Go-Game/main/images/Screenshot_1634025498.png" align="left" height="370" width="180" >
+<img src="https://raw.githubusercontent.com/keerthanchand/Tap-Tap-Go-Game/main/images/Screenshot_1634025511.png" align="left" height="370" width="180" >
+
